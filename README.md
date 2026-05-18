@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/banner.png" alt="Nano Banana Banner" width="100%"/>
+  <img src="docs/Gemini_Generated_Image_89qfft89qfft89qf.png" alt="GenWear Banner" width="100%"/>
 </p>
 
 <h1 align="center">GenWear</h1>
