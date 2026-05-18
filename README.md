@@ -2,7 +2,7 @@
   <img src="docs/banner.png" alt="Nano Banana Banner" width="100%"/>
 </p>
 
-<h1 align="center">🍌 Nano Banana</h1>
+<h1 align="center">GenWear</h1>
 
 <p align="center">
   <b>AI-Powered Multimodal Fashion Search Assistant</b>
